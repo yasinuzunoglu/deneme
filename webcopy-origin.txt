@@ -1,0 +1,184 @@
+Uri: https://quickswap.exchange/
+File Name: C:\Downloaded Web Sites\quickswap.exchange\index.htm
+Content Type: text/html
+
+Uri: https://quickswap.exchange/logo_circle.png
+File Name: C:\Downloaded Web Sites\quickswap.exchange\logo_circle.png
+Content Type: image/png
+
+Uri: https://quickswap.exchange/manifest.json
+File Name: C:\Downloaded Web Sites\quickswap.exchange\manifest.json
+Content Type: application/json
+
+Uri: https://quickswap.exchange/static/css/2.d657cf23.chunk.css
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\css\2.d657cf23.chunk.css
+Content Type: text/css
+
+Uri: https://quickswap.exchange/static/js/2.45312219.chunk.js
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\js\2.45312219.chunk.js
+Content Type: application/javascript
+
+Uri: https://quickswap.exchange/static/js/main.90ae9ef5.chunk.js
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\js\main.90ae9ef5.chunk.js
+Content Type: application/javascript
+
+Uri: https://quickswap.exchange/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\quickswap.exchange\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://quickswap.exchange/static/media/Inter-Thin.d52e5e38.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Thin.d52e5e38.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-Thin.b068b718.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Thin.b068b718.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-ThinItalic.a9780071.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ThinItalic.a9780071.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-ThinItalic.97bec988.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ThinItalic.97bec988.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraLight.b3b2ed6a.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraLight.b3b2ed6a.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraLight.dd19efda.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraLight.dd19efda.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraLightItalic.079cd1e7.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraLightItalic.079cd1e7.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraLightItalic.a6566ae6.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraLightItalic.a6566ae6.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-Light.780dd2ad.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Light.780dd2ad.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-Light.5d3776eb.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Light.5d3776eb.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-LightItalic.df29c534.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-LightItalic.df29c534.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-LightItalic.d0fa7cbc.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-LightItalic.d0fa7cbc.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-Regular.dc131113.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Regular.dc131113.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-Regular.3ac83020.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Regular.3ac83020.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-Italic.fd26ff23.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Italic.fd26ff23.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-Italic.f137a90d.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Italic.f137a90d.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-Medium.75db5319.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Medium.75db5319.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-Medium.c0638bea.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Medium.c0638bea.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-MediumItalic.f1e11535.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-MediumItalic.f1e11535.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-MediumItalic.a1b58862.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-MediumItalic.a1b58862.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-SemiBold.007ad31a.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-SemiBold.007ad31a.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-SemiBold.66a68ffa.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-SemiBold.66a68ffa.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-SemiBoldItalic.3031b683.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-SemiBoldItalic.3031b683.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-SemiBoldItalic.6cd13dbd.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-SemiBoldItalic.6cd13dbd.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-Bold.444a7284.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Bold.444a7284.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-Bold.99a0d9a7.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Bold.99a0d9a7.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-BoldItalic.96284e2a.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-BoldItalic.96284e2a.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-BoldItalic.3aa31f73.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-BoldItalic.3aa31f73.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraBold.37da9eec.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraBold.37da9eec.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraBold.ab70688a.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraBold.ab70688a.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraBoldItalic.fcc7d60e.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraBoldItalic.fcc7d60e.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-ExtraBoldItalic.728a4c7d.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-ExtraBoldItalic.728a4c7d.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-Black.661569af.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Black.661569af.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-Black.d0b121f3.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-Black.d0b121f3.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-BlackItalic.a3cc36c8.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-BlackItalic.a3cc36c8.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-BlackItalic.e3329b2b.woff
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-BlackItalic.e3329b2b.woff
+Content Type: font/woff
+
+Uri: https://quickswap.exchange/static/media/Inter-roman.var.66c6e408.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-roman.var.66c6e408.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter-italic.var.1f7ca638.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter-italic.var.1f7ca638.woff2
+Content Type: font/woff2
+
+Uri: https://quickswap.exchange/static/media/Inter.var.8dd26c3d.woff2
+File Name: C:\Downloaded Web Sites\quickswap.exchange\static\media\Inter.var.8dd26c3d.woff2
+Content Type: font/woff2
+
